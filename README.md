@@ -34,7 +34,7 @@
 
 | Проект | Описание | Материалы |
 | :--- | :--- | :--- |
-| [Weather Widget](https://github.com/X-Max-IT/WeatherAPI) | Тестирование погодного пет-проекта с реальным API | Чек-лист, тест-кейсы, баг-репорты, техники тест-дизайна: https://disk.yandex.ru/d/3DOAov6AdXbZPg |
+| [Weather Widget](https://x-max-it.github.io/WeatherAPI/) | Тестирование погодного пет-проекта с реальным API | Чек-лист, тест-кейсы, баг-репорты, техники тест-дизайна: https://disk.yandex.ru/d/3DOAov6AdXbZPg |
 
 ## 💻 Дополнительный технический бэкграунд
 
